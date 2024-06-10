@@ -1,0 +1,31 @@
+{
+  "name": "masterz-solana-exam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g-tessarin/masterz-solana-exam.git"
+  },
+  "author": "g-tessarin <g.tessarin@outlook.it>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.14.2",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@solana/spl-token": "^0.4.6",
+    "@solana/web3.js": "^1.92.3",
+    "install": "^0.13.0",
+    "typescript": "^5.4.5",
+    "typescriptnpm": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/g-tessarin/masterz-solana-exam/issues"
+  },
+  "homepage": "https://github.com/g-tessarin/masterz-solana-exam#readme",
+  "description": ""
+}
